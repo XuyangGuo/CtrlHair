@@ -261,8 +261,9 @@ If you use this code for your research, please cite our papers.
 }
 ```
 
-## References
+This work is also inspired by our previous work [STD-GAN (CVIU2021)](https://github.com/XuyangGuo/xuyangguo.github.io/raw/main/database/STD-GAN/STD-GAN.pdf).
+
+## References & Acknowledgments
 - [ZPdesu / SEAN](https://github.com/ZPdesu/SEAN)
 - [zhhoper / RI_render_DPR](https://github.com/zhhoper/RI_render_DPR)
 - [zllrunning / face-parsing.PyTorch](https://github.com/zllrunning/face-parsing.PyTorch)
-- [XuyangGuo / STD-GAN](https://github.com/XuyangGuo/xuyangguo.github.io/raw/main/database/STD-GAN/STD-GAN.pdf)
