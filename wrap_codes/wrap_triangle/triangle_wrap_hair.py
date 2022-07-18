@@ -3,7 +3,7 @@
 """
 # File name:    triangle_wrap_hair.py
 # Time :        2021/8/31 11:50
-# Author:       xuyang.guo@vipl.ict.ac.cn
+# Author:       xyguoo@163.com
 # Description:  
 """
 

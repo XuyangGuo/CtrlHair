@@ -3,7 +3,7 @@
 """
 # File name:    get_mean_code.py
 # Time :        2022/2/22 17:22
-# Author:       xuyang.guo@vipl.ict.ac.cn
+# Author:       xyguoo@163.com
 # Description:  
 """
 

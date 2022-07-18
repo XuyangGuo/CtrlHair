@@ -3,7 +3,7 @@
 """
 # File name:    validation_in_train.py
 # Time :        2021/12/10 12:55
-# Author:       xuyang.guo@vipl.ict.ac.cn
+# Author:       xyguoo@163.com
 # Description:  
 """
 
