@@ -261,7 +261,8 @@ If you use this code for your research, please cite our papers.
 }
 ```
 
-## References & Acknowledgments
+## References
 - [ZPdesu / SEAN](https://github.com/ZPdesu/SEAN)
 - [zhhoper / RI_render_DPR](https://github.com/zhhoper/RI_render_DPR)
 - [zllrunning / face-parsing.PyTorch](https://github.com/zllrunning/face-parsing.PyTorch)
+- [STD-GAN](https://github.com/XuyangGuo/xuyangguo.github.io/raw/main/database/STD-GAN/STD-GAN.pdf)
