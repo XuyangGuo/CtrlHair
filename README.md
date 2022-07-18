@@ -1,6 +1,6 @@
 # [GAN with Multivariate Disentangling for Controllable Hair Editing (ECCV 2022)](https://github.com/XuyangGuo/xuyangguo.github.io/raw/main/database/CtrlHair/CtrlHair.pdf)
 
-Xuyang Guo, [Meina Kan](http://vipl.ict.ac.cn/homepage/mnkan/Publication/), Tianle Chen, [Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ)
+[Xuyang Guo](https://xuyangguo.github.io/), [Meina Kan](http://vipl.ict.ac.cn/homepage/mnkan/Publication/), Tianle Chen, [Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ)
 
 ![demo1](https://github.com/XuyangGuo/xuyangguo.github.io/blob/main/database/CtrlHair/resources/demo1.gif?raw=true)
 
