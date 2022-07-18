@@ -34,7 +34,7 @@ Dependencies:
 - pillow, pandas, scikit-learn, opencv-python
 - PyQt5, tqdm, addict, dill
 
-Please download all [external trained models](https://drive.google.com/drive/folders/1X0y82o7-JB6nGYIWdbbJa4MTFbtV9bei?usp=sharing), move it to `./` with the correct path `CtrlHair/external_model_params`. (The directory contains the model parameters of face analysis tools required by our project, including SEAN for face encoding and generator with masks, 3DDFA for face 3D reconstruction, BiSeNet for face parsing, and 68/81 facial landmark detector.)
+Please download all [external trained models](https://drive.google.com/drive/folders/1X0y82o7-JB6nGYIWdbbJa4MTFbtV9bei?usp=sharing), move it to `./` with the correct path `CtrlHair/external_model_params`. (The directory contains the model parameters of face analysis tools required by our project, including SEAN for face encoding and generator with masks, BiSeNet for face parsing, and 68/81 facial landmark detector.)
 
 ## Editing by Pretrained Model
 
