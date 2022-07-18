@@ -40,7 +40,7 @@ Please download all [external trained models](https://drive.google.com/drive/fol
 
 Firstly refer to the "Installation" section above.
 
-Please download [the pre-trained model of CtrlHair](https://drive.google.com/drive/folders/1opQhmc7ckS3J8qdLii_EMqmxYCcBLznO?usp=sharing), move it to `./` with the correct path `CtrlHair/model_trained
+Please download [the pre-trained model of CtrlHair](https://drive.google.com/drive/folders/1opQhmc7ckS3J8qdLii_EMqmxYCcBLznO?usp=sharing), move it to `./` with the correct path `CtrlHair/model_trained`.
 
 #### Editing with UI directly (recommended)
 
