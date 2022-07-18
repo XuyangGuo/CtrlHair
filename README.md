@@ -261,7 +261,7 @@ If you use this code for your research, please cite our papers.
 }
 ```
 
-This work is also inspired by our previous work [STD-GAN (CVIU2021)](https://github.com/XuyangGuo/xuyangguo.github.io/raw/main/database/STD-GAN/STD-GAN.pdf) for instance-level facial attributes editing.
+This work is also inspired by our previous work [X. Guo, et al., STD-GAN (CVIU2021)](https://github.com/XuyangGuo/xuyangguo.github.io/raw/main/database/STD-GAN/STD-GAN.pdf) for instance-level facial attributes editing.
 
 ## References & Acknowledgments
 - [ZPdesu / SEAN](https://github.com/ZPdesu/SEAN)
