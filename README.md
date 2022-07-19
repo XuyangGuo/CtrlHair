@@ -1,18 +1,18 @@
-# [GAN with Multivariate Disentangling for Controllable Hair Editing (ECCV 2022)](https://github.com/XuyangGuo/xuyangguo.github.io/raw/main/database/CtrlHair/CtrlHair.pdf)
+# [GAN with Multivariate Disentangling for Controllable Hair Editing (ECCV 2022)](https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/CtrlHair/CtrlHair.pdf)
 
 [Xuyang Guo](https://xuyangguo.github.io/), [Meina Kan](http://vipl.ict.ac.cn/homepage/mnkan/Publication/), Tianle Chen, [Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ)
 
-![demo1](https://github.com/XuyangGuo/xuyangguo.github.io/blob/main/database/CtrlHair/resources/demo1.gif?raw=true)
+![demo1](https://github.com/XuyangGuo/xuyangguo.github.io/blob/master/database/CtrlHair/resources/demo1.gif?raw=true)
 
-![demo2](https://github.com/XuyangGuo/xuyangguo.github.io/blob/main/database/CtrlHair/resources/demo2.gif?raw=true)
+![demo2](https://github.com/XuyangGuo/xuyangguo.github.io/blob/master/database/CtrlHair/resources/demo2.gif?raw=true)
 
-![demo3](https://github.com/XuyangGuo/xuyangguo.github.io/blob/main/database/CtrlHair/resources/demo3.gif?raw=true)
+![demo3](https://github.com/XuyangGuo/xuyangguo.github.io/blob/master/database/CtrlHair/resources/demo3.gif?raw=true)
 
 ## Abstract
 
 > Hair editing is an essential but challenging task in portrait editing considering the complex geometry and material of hair. Existing methods have achieved promising results by editing through a reference photo, user-painted mask, or guiding strokes. However, when a user provides no reference photo or hardly paints a desirable mask, these works fail to edit. Going a further step, we propose an efficiently controllable method that can provide a set of sliding bars to do continuous and fine hair editing. Meanwhile, it also naturally supports discrete editing through a reference photo and user-painted mask. Specifically, we propose a generative adversarial network with a multivariate Gaussian disentangling module. Firstly, an encoder disentangles the hair's major attributes, including color, texture, and shape, to separate latent representations. The latent representation of each attribute is modeled as a standard multivariate Gaussian distribution, to make each dimension of an attribute be changed continuously and finely. Benefiting from the Gaussian distribution, any manual editing including sliding a bar, providing a reference photo, and painting a mask can be easily made, which is flexible and friendly for users to interact with. Finally, with changed latent representations, the decoder outputs a portrait with the edited hair. Experiments show that our method can edit each attribute's dimension continuously and separately. Besides, when editing through reference images and painted masks like existing methods, our method achieves comparable results in terms of FID and visualization. Codes can be found at [https://github.com/XuyangGuo/CtrlHair](https://github.com/XuyangGuo/CtrlHair).
 
-![archi](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/main/database/CtrlHair/resources/architecture.png)
+![archi](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/master/database/CtrlHair/resources/architecture.png)
 
 
 ## Installation
