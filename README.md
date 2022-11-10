@@ -257,6 +257,7 @@ If you use this code for your research, please cite our papers.
   author={Guo, Xuyang and Kan, Meina and Chen, Tianle and Shan, Shiguang},
   booktitle={European Conference on Computer Vision},
   year={2022},
+  pages={655--670},
   organization={Springer}
 }
 ```
