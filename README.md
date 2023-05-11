@@ -42,6 +42,8 @@ Firstly, refer to the "Installation" section above.
 
 Please download [the pre-trained model of CtrlHair](https://drive.google.com/drive/folders/1opQhmc7ckS3J8qdLii_EMqmxYCcBLznO?usp=sharing) ([using Baidu Netdisk](https://pan.baidu.com/s/1O_Hu5dnk4GwmUrIBDWpwFA?pwd=1234) with password `1234` alternatively), move it to `./` with the correct path `CtrlHair/model_trained`.
 
+Then download 'hsv_stat_dict_ordered.pkl' from [the dataset information](https://drive.google.com/drive/folders/10p87Mobgueg9rdHyLPkX8xqEIvga6p2C?usp=sharing)  ([using Baidu Netdisk](https://pan.baidu.com/s/1D3D2JqxIR6miCeMNssucKw?pwd=1234) with password `1234` alternatively), move it to `./dataset_info_ctrlhair/hsv_stat_dict_ordered.pkl` (make the directory by yourself).
+
 #### Editing with UI directly (recommended)
 
 ```bash
